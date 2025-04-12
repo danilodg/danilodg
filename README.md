@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Danilo Gomes
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor FullStack`**
 
 Olá! Me chamo Danilo Gomes, tenho 21 anos e sou natural do Pará. Desde criança, sou apaixonado por tecnologia, por causa do meu pai que me ensinou. Cursei desenvolvimento Full Stack na Trybe. Tenho cursos de informática e atualmente estou fazendo um curso de rede de computadores na EETEPA Vilhena Alves.
 
