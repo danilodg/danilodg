@@ -142,7 +142,6 @@ Olá! Me chamo Danilo Gomes, tenho 21 anos e sou natural do Pará. Desde crianç
 <br/>
 
 ### 📊 Estatísticas
-
 <table>
   <tr>
     <td>
@@ -156,7 +155,7 @@ Olá! Me chamo Danilo Gomes, tenho 21 anos e sou natural do Pará. Desde crianç
       <img
         alt="Top Langs"
         height="200"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilodg&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilodg&theme=radical&layout=compact&langs_count=7"
       />
     </td>
   </tr>
