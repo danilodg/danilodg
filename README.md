@@ -142,7 +142,7 @@ Olá! Me chamo Danilo Gomes, tenho 21 anos e sou natural do Pará. Desde crianç
 <br/>
 
 ### 📊 Estatísticas
-<table>
+<table style="border: none; border-collapse: collapse;">
   <tr>
     <td>
       <img
