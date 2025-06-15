@@ -142,17 +142,21 @@ Olá! Me chamo Danilo Gomes, tenho 21 anos e sou natural do Pará. Desde crianç
 <br/>
 
 ### 📊 Estatísticas
-
-<p align="center">
-  <img
-    alt="GitHub Stats"
-    height="200"
-    src="https://github-readme-stats.vercel.app/api?username=danilodg&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
-  />
-  <img
-    alt="Top Langs"
-    height="200"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilodg&theme=radical&layout=compact&langs_count=7"
-  />
-</p>
-
+<table>
+  <tr>
+    <td style="border: none;">
+      <img
+        alt="GitHub Stats"
+        height="200"
+        src="https://github-readme-stats.vercel.app/api?username=danilodg&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+      />
+    </td>
+    <td style="border: none;">
+      <img
+        alt="Top Langs"
+        height="200"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilodg&theme=radical&layout=compact&langs_count=7"
+      />
+    </td>
+  </tr>
+</table>
