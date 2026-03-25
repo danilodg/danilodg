@@ -1,94 +1,162 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" alt="Ola" /> Danilo Gomes
+# 👩🏻‍💻 Danilo Gomes
+
+**`Desenvolvedor FullStack`**
+
+Olá! Me chamo Danilo Gomes, tenho 21 anos e sou natural do Pará. Desde criança, sou apaixonado por tecnologia, por causa do meu pai que me ensinou. Cursei desenvolvimento Full Stack na Trybe. Tenho cursos de informática e atualmente estou fazendo um curso de rede de computadores na EETEPA Vilhena Alves.
 
 <p align="left">
-  <strong>Desenvolvedor Full Stack</strong><br />
-  Interfaces premium, produtos web sob medida e sistemas pensados para crescer.
-</p>
-
-<p align="left">
-  <a href="https://github.com/danilodg?tab=followers">
-    <img src="https://img.shields.io/github/followers/danilodg?style=for-the-badge&label=Seguidores&color=0f172a&labelColor=1e293b" alt="Seguidores no GitHub" />
-  </a>
-  <a href="https://github.com/danilodg?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositorios-GitHub-0f172a?style=for-the-badge&logo=github&labelColor=1e293b" alt="Repositorios GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/danilogomesdg">
-    <img src="https://img.shields.io/badge/LinkedIn-Conectar-0ea5e9?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
-
----
-
-## Sobre mim
-
-Sou Danilo Gomes, desenvolvedor full stack do Para, apaixonado por tecnologia desde cedo.
-Hoje foco em construir experiencias web modernas com visual forte, codigo organizado e solucao clara para cada negocio.
-
-- Formacao em desenvolvimento Full Stack pela Trybe
-- Estudos em Redes de Computadores na EETEPA Vilhena Alves
-- Experiencia com front-end moderno, APIs e interfaces responsivas
-- Interesse especial por produtos digitais com boa experiencia de uso
-
----
-
-## Stack principal
-
-<p align="left">
-  <img alt="HTML" title="HTML" width="34px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-  <img alt="CSS" title="CSS" width="34px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-  <img alt="JavaScript" title="JavaScript" width="34px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-  <img alt="TypeScript" title="TypeScript" width="34px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-  <img alt="React" title="React" width="34px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-  <img alt="Node.js" title="Node.js" width="34px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
-  <img alt="Express" title="Express" width="34px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" />
-  <img alt="MySQL" title="MySQL" width="34px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-  <img alt="Python" title="Python" width="34px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-  <img alt="CSharp" title="C#" width="34px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
-  <img alt="Git" title="Git" width="34px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-  <img alt="GitHub" title="GitHub" width="34px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+    <a href="https://github.com/danilodg?tab=repositories&sort=stargazers">
+        <img
+            alt="Total de estrelas"
+            title="Total de estrelas GitHub"
+            src="https://custom-icon-badges.demolab.com/github/stars/danilodg?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+        />
+    </a>
+    <a href="https://github.com/danilodg?tab=followers">
+        <img
+            alt="Seguidores"
+            title="Me siga no GitHub"
+            src="https://custom-icon-badges.demolab.com/github/followers/danilodg?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
 </p>
 
 ---
 
-## O que eu construo
+### 🤖 Linguagens e Tecnologias
 
-- Landing pages com foco em autoridade, conversao e performance
-- Dashboards com leitura clara de dados e fluxos operacionais
-- Aplicacoes full stack com front-end moderno e back-end confiavel
-- Interfaces responsivas com acabamento visual premium
+<img
+    align="left"
+    alt="HTML"
+    title="HTML"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
+/>
+<img
+    align="left"
+    alt="CSS"
+    title="CSS"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
+/>
+<img
+    align="left"
+    alt="JavaScript"
+    title="JavaScript"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
+/>
+<img
+    align="left"
+    alt="TypeScript"
+    title="TypeScript"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
+/>
+<img
+    align="left"
+    alt="React"
+    title="React"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
+/>
+<img
+    align="left"
+    alt="Redux"
+    title="Redux"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg"
+/>
+<img
+    align="left"
+    alt="Bootstrap"
+    title="Bootstrap"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"
+/>
+<img
+    align="left"
+    alt="C#"
+    title="C#"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"
+/>
+<img
+    align="left"
+    alt="Jest"
+    title="Jest"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg"
+/>
+<img
+    align="left"
+    alt="MySql"
+    title="MySql"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
+/>
+<img
+    align="left"
+    alt="Railway"
+    title="Railway"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/railway/railway-original.svg"
+/>
+<img
+    align="left"
+    alt="Nodejs"
+    title="Nodejs"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"
+/>
+<img
+    align="left"
+    alt="Git"
+    title="Git"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
+/>
+<img
+    align="left"
+    alt="Python"
+    title="Python"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
+/>
 
----
+<br/>
+<br/>
 
-## Projetos em destaque
-
-### Landing page para medico especialista
-Projeto focado em autoridade, agendamento e conversao para consultas particulares.
-
-### Dashboard de vendas e indicadores
-Painel para acompanhar receita, metas e desempenho comercial com leitura rapida.
-
-### Carteira de gestao financeira
-Aplicacao web para organizar contas, metas e fluxo de caixa no dia a dia.
-
----
-
-## Estatisticas
-
-<p align="left">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=danilodg&show_icons=true&include_all_commits=true&locale=pt-br&title_color=38bdf8&text_color=cbd5e1&icon_color=7dd3fc&bg_color=0f172a&border_color=1e293b" alt="GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilodg&layout=compact&langs_count=7&title_color=38bdf8&text_color=cbd5e1&bg_color=0f172a&border_color=1e293b" alt="Top Langs" />
-</p>
-
----
-
-## Contato
-
-<p align="left">
-  <a href="mailto:danilo.gomes.dg91@gmail.com">danilo.gomes.dg91@gmail.com</a><br />
-  <a href="https://github.com/danilodg">GitHub</a> •
-  <a href="https://www.linkedin.com/in/danilogomesdg">LinkedIn</a>
-</p>
-
-<p align="left">
-  Aberto a novas oportunidades, freelas e projetos que precisem de produto bem resolvido.
-</p>
+### 📊 Estatísticas
+<table>
+  <tr>
+    <td style="border: none;">
+      <img
+        alt="GitHub Stats"
+        height="200"
+        src="https://github-readme-stats.vercel.app/api?username=danilodg&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+      />
+    </td>
+    <td style="border: none;">
+      <img
+        alt="Top Langs"
+        height="200"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilodg&theme=radical&layout=compact&langs_count=7"
+      />
+    </td>
+  </tr>
+</table>
