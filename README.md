@@ -1,29 +1,29 @@
 # 👩🏻‍💻 Danilo Gomes
 
-**`Desenvolvedor FullStack`**
+**`Full Stack Developer`**
 
-Olá! Me chamo Danilo Gomes, tenho 21 anos e sou natural do Pará. Desde criança, sou apaixonado por tecnologia, por causa do meu pai que me ensinou. Cursei desenvolvimento Full Stack na Trybe. Tenho cursos de informática e atualmente estou fazendo um curso de rede de computadores na EETEPA Vilhena Alves.
+Hello! My name is Danilo Gomes, I’m 22 years old and I’m from Pará, Brazil. Since childhood, I’ve been passionate about technology, inspired by my father who introduced me to this world. I studied Full Stack Development at Trybe. I also have IT courses and I’m currently studying Computer Networks at EETEPA Vilhena Alves.
 
 <p align="left">
     <a href="https://github.com/danilodg?tab=repositories&sort=stargazers">
         <img
-            alt="Total de estrelas"
-            title="Total de estrelas GitHub"
-            src="https://custom-icon-badges.demolab.com/github/stars/danilodg?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            alt="Total stars"
+            title="Total GitHub stars"
+            src="https://custom-icon-badges.demolab.com/github/stars/danilodg?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=stars"
         />
     </a>
     <a href="https://github.com/danilodg?tab=followers">
         <img
-            alt="Seguidores"
-            title="Me siga no GitHub"
-            src="https://custom-icon-badges.demolab.com/github/followers/danilodg?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            alt="Followers"
+            title="Follow me on GitHub"
+            src="https://custom-icon-badges.demolab.com/github/followers/danilodg?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=followers&logoColor=white"
         />
     </a>
 </p>
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Languages and Technologies
 
 <img
     align="left"
@@ -141,19 +141,19 @@ Olá! Me chamo Danilo Gomes, tenho 21 anos e sou natural do Pará. Desde crianç
 <br/>
 <br/>
 
-### 📊 Estatísticas
+### 📊 Stats
 <table>
   <tr>
     <td style="border: none;">
       <img
         alt="GitHub Stats"
         height="200"
-        src="https://github-readme-stats.vercel.app/api?username=danilodg&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+        src="https://github-readme-stats.vercel.app/api?username=danilodg&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en"
       />
     </td>
     <td style="border: none;">
       <img
-        alt="Top Langs"
+        alt="Top Languages"
         height="200"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilodg&theme=radical&layout=compact&langs_count=7"
       />
